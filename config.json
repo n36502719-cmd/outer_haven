@@ -1,9 +1,9 @@
 {
-	"client": {Outerhaven-efee.aternos.me
-		"host": "Please enter your server URL",https://add.aternos.org/Outerhaven-efee
+	"client": {
+		"host": "Please enter your server URL",Outerhaven-efee.aternos.me
 		"port": "Please enter your server port",19132
 		"username": "Please enter the bot's username you want"
-	},night
+	},
 	
 	"! DO NOT EDIT BELOW !": "ONLY IF YOU KNOW WHAT YOU ARE DOING",
 	"logLevel": ["error", "log", "debug"],
